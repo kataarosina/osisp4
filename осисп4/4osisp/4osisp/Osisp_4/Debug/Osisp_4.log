@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  Osisp_4.cpp
+C:\Users\Kate\Desktop\осисп4\4osisp\4osisp\Osisp_4\Osisp_4.cpp(42,27): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\Kate\Desktop\осисп4\4osisp\4osisp\Osisp_4\Osisp_4.cpp(42,21): warning C4244: инициализация: преобразование "float" в "const int", возможна потеря данных
+C:\Users\Kate\Desktop\осисп4\4osisp\4osisp\Osisp_4\Osisp_4.cpp(73,21): warning C4018: <: несоответствие типов со знаком и без знака
+  ThreadPool.cpp
+  Создание кода...
+  Osisp_4.vcxproj -> C:\Users\Kate\Desktop\осисп4\4osisp\4osisp\Debug\Osisp_4.exe
